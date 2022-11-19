@@ -82,7 +82,8 @@ INSERT INTO albumsmusicians (album_id,musician_id)
 			(5,5),
 			(6,6),
 			(7,7),
-			(8,8);
+			(8,8),
+			(1,4);
 			
 INSERT INTO collectionssongs (song_id,collection_id)
 	VALUES  (1,1),
